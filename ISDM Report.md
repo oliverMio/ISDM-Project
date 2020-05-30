@@ -36,4 +36,4 @@ The automatic adjustment of customer requirements, and the lack of automated sur
 
 While the company's objective is to help customers more efficiently, this also helps the customer get what they want faster, building even stronger relationships between the two.
 
-The reliance on the system to create matches between RMs and customers creates and unfortunate situation in which any failure in the new system could be critical for business operations. The documentation it creates however, regarding RM and customer portfolios, can allow for functional connections to be made during shutdown, but this is not a perfect solution. Similarly, if data is lost or destroyed the system will not function correctly.
+The reliance on the system to create matches between RMs and customers creates an unfortunate situation in which any failure in the new system could be critical for business operations. The documentation it creates however, regarding RM and customer portfolios, can allow for functional connections to be made during shutdown, but this is not a perfect solution. Similarly, if data is lost or destroyed the system will not function correctly.
