@@ -1,4 +1,4 @@
-# ISDM Report
+﻿# ISDM Report
 
 ## Tasks
 
@@ -27,6 +27,20 @@ This narrows the possible solutions down. The system will have to be automated t
 2. Attributes that are self identified by the RM and customer, that establish the RM's personal understanding of their skill set, and the customer's personal requirements in a relationship manager.
 
 Unfortunately these values are static, modifiable only through manual changes. It will therefore require a more dynamic process afterwards to ensure the relevancy of the data. This could be achieved via a dynamic system: a process that evaluates the interactions RM's have with the customers based on the outcome - did the customer buy a product? Did they send a complaint? And uses this information to create a portfolio for each RM and customer with information about positive and negative outcomes. This portfolio can link RM's and customers with each other based on the previous experiences they had with similar RM's or customers.
+
+---
+
+## Agile Methodology 
+
+A system development project cycle can be an unpredictable and challenging process where adaptation may be required to keep up with developing requirements and technology. To allow for more flexibility, we decided to utilize the Scrum framework. Scrum is an agile project management methodology which is characterized by consistent meetings (sprints), regular feedback and collaboration between team members.
+
+  
+
+The main scrum activity employed during this project were sprints. Sprints are allotted time periods where the development team takes on more specific, focused tasks and delivers them by the end of the time frame. It is very beneficial to a team to divide up a sizable project into smaller segments with regular interaction between members. In this case, we decided that sprint lengths of 3 to 5 days were appropriate.
+
+  
+
+To prepare for a sprint, we would meet and discuss what we would like to complete for this sprint and how we plan to do so. During the sprints we would continue to communicate as much as possible to ensure we could properly respond to any changes to the sprint plan. This amount of communication allowed us to keep each other ‘in the loop’ with each other's progress whilst being able to focus on our own tasks.
 
 ---
 
