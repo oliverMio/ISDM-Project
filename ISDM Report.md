@@ -17,6 +17,23 @@ Each group will produce a business report of not more than 2000 words covering t
 
 ---
 
+## Empathy Maps
+
+<img src="Empathy map CEO.png"
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: groove;"/>
+
+---
+
+<img src="Empathy map customer.png"
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: groove;"/>
+
+---
+
+<img src="Empathy map RM.png"
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: groove;"/>
+
+---
+
 ## Describe your Approach
 
 The solution must divert time invested away from the RM, without causing additional stresses to the customers in order to retain the business. For this to be successful - the approach must use the data collected about both the customers and the relationship managers to streamline the process, rather than relying on automated survey systems on the customer's end.
@@ -30,51 +47,64 @@ Unfortunately these values are static, modifiable only through manual changes. I
 
 ---
 
-## Agile Methodology 
+## Agile Methodology
 
 A system development project cycle can be an unpredictable and challenging process where adaptation may be required to keep up with developing requirements and technology. To allow for more flexibility, we decided to utilize the Scrum framework. Scrum is an agile project management methodology which is characterized by consistent meetings (sprints), regular feedback and collaboration between team members.
 
-  
-
 The main scrum activity employed during this project were sprints. Sprints are allotted time periods where the development team takes on more specific, focused tasks and delivers them by the end of the time frame. It is very beneficial to a team to divide up a sizable project into smaller segments with regular interaction between members. In this case, we decided that sprint lengths of 3 to 5 days were appropriate.
-
-  
 
 To prepare for a sprint, we would meet and discuss what we would like to complete for this sprint and how we plan to do so. During the sprints we would continue to communicate as much as possible to ensure we could properly respond to any changes to the sprint plan. This amount of communication allowed us to keep each other ‘in the loop’ with each other's progress whilst being able to focus on our own tasks.
 
 ---
 
-### 5.  List assumptions you have made in the systems analysis.
+## Models
+
+<img src="Screen Shot 2020-05-22 at 3.05.36 pm.png"
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
+
+---
+
+<img src="Screen Shot 2020-05-22 at 12.28.12 pm.png"
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
+
+---
+
+<img src="Screen Shot 2020-05-26 at 9.12.53 pm.png"
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
+
+---
+
+<img src="Screen Shot 2020-05-28 at 4.18.12 pm.png"
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
+
+---
+
+## Assumptions
 
 To understand where improvements can be made by the new proposed system, first we must understand exactly how the existing CMC works. By analysing the existing system we will know its flaws and strengths which allows us to determine what may be kept and integrated into the proposed system. In order to do so, we had to make a number of assumptions about the CMC, the RMs and Inbound & Outbound Calls. They are as follows:
 
 CMC system
--   The major travel company’s existing CMC isn’t sufficient enough to respond to the customer demand
--   Inbound calls were being placed into a queue waiting to be rerouted by a receptionist to the first available RM.
-    
--   The best suited RM were not being assigned to the correct calls.
-    
--   The existing profiler tool will be sufficient enough to support the new proposed system in creating customer profiles.
-   
+
+- The major travel company’s existing CMC isn’t sufficient enough to respond to the customer demand
+- Inbound calls were being placed into a queue waiting to be rerouted by a receptionist to the first available RM.
+- The best suited RM were not being assigned to the correct calls.
+- The existing profiler tool will be sufficient enough to support the new proposed system in creating customer profiles.
+
 RM
 
--   RMs sales would improve if correctly assigned to customers
-    
--   All current RMs have a customized profile
-    
--   RMs are more likely to successfully sell to returning customers
-    
-  Inbound Calls
+- RMs sales would improve if correctly assigned to customers
+- All current RMs have a customized profile
+- RMs are more likely to successfully sell to returning customers
 
--   Customers kept waiting for too long will hang up
-    
--   Inbound calls that are more likely to become end-customers are not currently being prioritized by the CRC
-    
--   Customer details are being stored in the database after an inbound call
+Inbound Calls
+
+- Customers kept waiting for too long will hang up
+- Inbound calls that are more likely to become end-customers are not currently being prioritized by the CRC
+- Customer details are being stored in the database after an inbound call
   
 Outbound Calls
 
--   Potential customer information being pulled from the database are previously inbound calls
+- Potential customer information being pulled from the database are previously inbound calls
 
 ---
 
