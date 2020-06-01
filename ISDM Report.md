@@ -20,13 +20,13 @@ Each group will produce a business report of not more than 2000 words covering t
 ## Empathy Maps
 
 <img src="Empathy map CEO.png"
-style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;"/>
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: groove;"/>
 
 <img src="Empathy map customer.png"
-style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;"/>
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: groove;"/>
 
 <img src="Empathy map RM.png"
-style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;"/>
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: groove;"/>
 
 ---
 
@@ -56,16 +56,16 @@ To prepare for a sprint, we would meet and discuss what we would like to complet
 ## Models
 
 <img src="Screen Shot 2020-05-22 at 3.05.36 pm.png"
-style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;"/>
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
 
 <img src="Screen Shot 2020-05-22 at 12.28.12 pm.png"
-style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;"/>
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
 
 <img src="Screen Shot 2020-05-26 at 9.12.53 pm.png"
-style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;"/>
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
 
 <img src="Screen Shot 2020-05-28 at 4.18.12 pm.png"
-style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;"/>
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
 
 ---
 
