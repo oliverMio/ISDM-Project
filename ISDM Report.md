@@ -1,19 +1,47 @@
 ﻿# ISDM Report
 
-## Tasks
-
-Each group will produce a business report of not more than 2000 words covering the following tasks in relation to an information systems development project:
+[Click here for our group presentation.](https://www.youtube.com/watch?v=lMPybOUR97U&feature=youtu.be&fbclid=IwAR3WWlQorupc2ormCRzPkDWHOOksrgVc_5wQ5GvEDiYFjjWMu4bqh0NYp5Q)
 
 ---
 
-1. Outline the objectives of the project and define the problem (Steps 1 & 2 of Design Thinking Methodology). (Terry)
-2. Identify stakeholders. (Terry)
-3. Describe your approach from a Design Thinking principles perspective.(Oliver)
-4. Explain the agile methodology, namely, Scrum you have used to carry out the procedure. In your explanation, ensure that you outline activities from Scrum that you use.(William)
-5. List assumptions you have made in the systems analysis.(William)
-6. Document your proposed work products and models. (Aliza)
-7. Discuss the competitive advantages might be gained in developing the new information system. Identify and discuss the possible adverse effects for this Business if its information system project fails (Oliver)
-8. Document in GitHub all your iteration and models as you progress.
+## 1. Problem Definition & Project Objectives
+
+The travel company currently faces difficulties in dealing with differing varieties of holiday packages and the methods used to match clients with RM. Thus, it is necessary to improve the process of matching customers to the best suited RM based on specific factors of both the customer and the RM by creating a more automated system that can more efficiently match customers according to RM performance and product knowledge.
+
+In doing so, RM can reduce complications associated with differing holiday packages and reduce costs by decreasing the lead times and servicing times on the phones. Additionally, by suiting a customer to the most appropriate RM, the travel company will likely see an increase in customer turn over due to their needs being better met, which can ultimately have a positive effect on revenue.
+
+Another issue for the travel company is long lead times during busy periods in which customers get frustrated and hang up the phone. A system to manage long waiting times for customers will to be implemented.
+
+The project aims to develop an improved information system for a travel company which enables a more productive and efficient Call Management System (CMC) which will allow the Relationship Managers (RM) to improve client servicing.
+
+---
+
+## 2. Stakeholders
+
+Travel Company Owner/CEO
+
+- Interest: High
+- Influence: High
+
+Development Team
+
+- Interest: High
+- Influence: High
+
+Travel Company Hiring Manager
+
+- Interest: High
+- Influence: Medium
+
+Other Travel Company Employees
+
+- Interest: High
+- Influence: Low
+
+Customers
+
+- Interest: High
+- Influence: Low
 
 ---
 
@@ -38,23 +66,23 @@ style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; mar
 
 ### Owner/CEO
 
-- I want to increase performance and sales 
-- I want to improve the customer's experiences 
+- I want to increase performance and sales
+- I want to improve the customer's experiences
 - The transition from system to system should be as seamless as possible
-- I want improved monitoring of RMs performance 
+- I want improved monitoring of RMs performance
 
-### Customers:
+### Customers
 
 - I prefer to speak with an RM that understands and has a lot of knowledge about the destination I want to travel to
 - I prefer to spend as little amount of time as possible waiting on the phone
 - I would prefer to speak my native language with the RM
-- I need my details to be saved securely to speed up the booking process next time 
+- I need my details to be saved securely to speed up the booking process next time
 - I prefer to speak to an RM that I know
 
-### Relationship Managers:
+### Relationship Managers
 
 - I want to speak to returning customer as much as possible since I have built rapport with them
-- I want to speak to customers who are interested in destinations that I am very knowledgeable about 
+- I want to speak to customers who are interested in destinations that I am very knowledgeable about
 - I don't like having to redirect customers to other RMs if I can't answer their questions
 - I would prefer to view a quick summary of a customer before speaking to them
 - I want the ability to leave feedback and rate customers
@@ -71,7 +99,7 @@ style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; mar
 
 ---
 
-## Describe your Approach
+## 3. Approach
 
 The solution must divert time invested away from the RM, without causing additional stresses to the customers in order to retain the business. For this to be successful - the approach must use the data collected about both the customers and the relationship managers to streamline the process, rather than relying on automated survey systems on the customer's end.
 
@@ -84,39 +112,7 @@ Unfortunately these values are static, modifiable only through manual changes. I
 
 ---
 
-## POV Statements
-
-
-
-### As a customer...:
-
-- I prefer to speak with an RM that understands and has a lot of knowledge about the destination I want to travel to
-- I prefer to spend as little amount of time as possible waiting on the phone
-- I would prefer to speak my native language with the RM
-- I need my details to be saved securely to speed up the booking process next time 
-- I prefer to speak to an RM that I know
-
-### As a Relationship Manager...:
-
-- I want to speak to returning customer as much as possible since I have built rapport with them
-- I want to speak to customers who are interested in destinations that I am very knowledgeable about 
-- I don't like having to redirect customers to other RMs if I can't answer their questions
-- I would prefer to view a quick summary of a customer before speaking to them
-- The ability to edit a customer's profile after speaking with them would be ideal
-
-
-
-## How We Might Statements
-
-- How might we assign customers to the most suited RM?
-- How might we minimize customer waiting time?
-- How might we ensure customer & RM details are secure?
-- How might we prioritize returning customer?
-- How might we allow RMs to view and edit customer profiles?
-
----
-
-## Agile Methodology
+## 4. Agile Methodology
 
 A system development project cycle can be an unpredictable and challenging process where adaptation may be required to keep up with developing requirements and technology. To allow for more flexibility, we decided to utilize the Scrum framework. Scrum is an agile project management methodology which is characterized by consistent meetings (sprints), regular feedback and collaboration between team members.
 
@@ -126,29 +122,7 @@ To prepare for a sprint, we would meet and discuss what we would like to complet
 
 ---
 
-## Models
-
-<img src="Screen Shot 2020-05-22 at 3.05.36 pm.png"
-style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
-
----
-
-<img src="Screen Shot 2020-05-22 at 12.28.12 pm.png"
-style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
-
----
-
-<img src="Screen Shot 2020-05-26 at 9.12.53 pm.png"
-style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
-
----
-
-<img src="Screen Shot 2020-05-28 at 4.18.12 pm.png"
-style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
-
----
-
-## Assumptions
+## 5. Assumptions
 
 To understand where improvements can be made by the new proposed system, first we must understand exactly how the existing CMC works. By analysing the existing system we will know its flaws and strengths which allows us to determine what may be kept and integrated into the proposed system. In order to do so, we had to make a number of assumptions about the CMC, the RMs and Inbound & Outbound Calls. They are as follows:
 
@@ -177,10 +151,38 @@ Outbound Calls
 
 ---
 
-## Advantages and Disadvantages
+## 6. Products & Models
+
+<img src="Screen Shot 2020-05-22 at 3.05.36 pm.png"
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
+
+---
+
+<img src="Screen Shot 2020-05-22 at 12.28.12 pm.png"
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
+
+---
+
+<img src="Screen Shot 2020-05-26 at 9.12.53 pm.png"
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
+
+---
+
+<img src="Screen Shot 2020-05-28 at 4.18.12 pm.png"
+style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; border-style: solid;"/>
+
+---
+
+## 7. Advantages and Disadvantages
 
 The automatic adjustment of customer requirements, and the lack of automated surveys ensures the customer is treated to the best service at little to no expense on their part. This provides an important connection between the company and its customers.
 
 While the company's objective is to help customers more efficiently, this also helps the customer get what they want faster, building even stronger relationships between the two.
 
 The reliance on the system to create matches between RMs and customers creates an unfortunate situation in which any failure in the new system could be critical for business operations. The documentation it creates however, regarding RM and customer portfolios, can allow for functional connections to be made during shutdown, but this is not a perfect solution. Similarly, if data is lost or destroyed the system will not function correctly.
+
+---
+
+## Conclusion
+
+This system will make it more efficient for RMs while also making the customer's journey with the company that much easier. While it does have the same flaws any system does, it is very much worth working around them to use the system, as it can definitely and substantially benefit the company.
