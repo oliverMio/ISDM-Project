@@ -34,6 +34,43 @@ style="float: none; margin-left: 10px; margin-right: 10px; margin-top: 10px; mar
 
 ---
 
+## POV Statements
+
+### Owner/CEO
+
+- I want to increase performance and sales 
+- I want to improve the customer's experiences 
+- The transition from system to system should be as seamless as possible
+- I want improved monitoring of RMs performance 
+
+### Customers:
+
+- I prefer to speak with an RM that understands and has a lot of knowledge about the destination I want to travel to
+- I prefer to spend as little amount of time as possible waiting on the phone
+- I would prefer to speak my native language with the RM
+- I need my details to be saved securely to speed up the booking process next time 
+- I prefer to speak to an RM that I know
+
+### Relationship Managers:
+
+- I want to speak to returning customer as much as possible since I have built rapport with them
+- I want to speak to customers who are interested in destinations that I am very knowledgeable about 
+- I don't like having to redirect customers to other RMs if I can't answer their questions
+- I would prefer to view a quick summary of a customer before speaking to them
+- I want the ability to leave feedback and rate customers
+
+---
+
+## How We Might Statements
+
+- How might we assign customers to the most suited RM?
+- How might we minimize customer waiting time?
+- How might we ensure customer & RM details are secure?
+- How might we prioritize customers who are more likely to purchase?
+- How might we allow RMs to view and edit customer profiles?
+
+---
+
 ## Describe your Approach
 
 The solution must divert time invested away from the RM, without causing additional stresses to the customers in order to retain the business. For this to be successful - the approach must use the data collected about both the customers and the relationship managers to streamline the process, rather than relying on automated survey systems on the customer's end.
@@ -44,6 +81,38 @@ This narrows the possible solutions down. The system will have to be automated t
 2. Attributes that are self identified by the RM and customer, that establish the RM's personal understanding of their skill set, and the customer's personal requirements in a relationship manager.
 
 Unfortunately these values are static, modifiable only through manual changes. It will therefore require a more dynamic process afterwards to ensure the relevancy of the data. This could be achieved via a dynamic system: a process that evaluates the interactions RM's have with the customers based on the outcome - did the customer buy a product? Did they send a complaint? And uses this information to create a portfolio for each RM and customer with information about positive and negative outcomes. This portfolio can link RM's and customers with each other based on the previous experiences they had with similar RM's or customers.
+
+---
+
+## POV Statements
+
+
+
+### As a customer...:
+
+- I prefer to speak with an RM that understands and has a lot of knowledge about the destination I want to travel to
+- I prefer to spend as little amount of time as possible waiting on the phone
+- I would prefer to speak my native language with the RM
+- I need my details to be saved securely to speed up the booking process next time 
+- I prefer to speak to an RM that I know
+
+### As a Relationship Manager...:
+
+- I want to speak to returning customer as much as possible since I have built rapport with them
+- I want to speak to customers who are interested in destinations that I am very knowledgeable about 
+- I don't like having to redirect customers to other RMs if I can't answer their questions
+- I would prefer to view a quick summary of a customer before speaking to them
+- The ability to edit a customer's profile after speaking with them would be ideal
+
+
+
+## How We Might Statements
+
+- How might we assign customers to the most suited RM?
+- How might we minimize customer waiting time?
+- How might we ensure customer & RM details are secure?
+- How might we prioritize returning customer?
+- How might we allow RMs to view and edit customer profiles?
 
 ---
 
